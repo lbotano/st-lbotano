@@ -1,7 +1,14 @@
-st - simple terminal
+st-lbotano - simple terminal fork
 --------------------
 st is a simple terminal emulator for X which sucks less.
 
+Patches
+------------
+* st-alpha
+* st-anysize
+* st-scrollback
+* st-scrollback-mouse
+* st-xresources
 
 Requirements
 ------------
