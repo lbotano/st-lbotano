@@ -1,0 +1,4 @@
+.ccls-cache/
+st
+*.o
+*.tar.gz
