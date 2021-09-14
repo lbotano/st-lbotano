@@ -9,6 +9,7 @@ Patches
 * st-scrollback
 * st-scrollback-mouse
 * st-xresources
+* font2
 
 Requirements
 ------------
